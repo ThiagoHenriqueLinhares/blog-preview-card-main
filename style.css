@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    margin: 0px;
+}
+
+main {
+    background-color: white;
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    border-radius: 10px;
+    height: 480px;
+    width: 370px;
+}
+
+img {
+    margin: 15px;
+}
+
+h1 {
+    font-size: 15px;
+    text-indent: 20px;
+    background-color: hsl(47, 88%, 63%);
+    margin: 5px 5px 0px 5px;
+}
+
+.data {
+    padding-left: 20px;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+.conteudo {
+    padding-left: 20px;
+}
+
+.nome {
+    padding-left: 40px;
+}
